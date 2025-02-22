@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hi, I'm Marcel Durza!
 
-<!--
-**MarcelTheMarcel/MarcelTheMarcel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Google Apps Script Developer** | Automations & API Integrations | Java & SQL Enthusiast  
+⚡ Helping businesses automate workflows with Google Apps Script & API integrations  
+💡 Passionate about **workflow automation, data processing, and backend development**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌟 Featured Projects  
+🔧 Coming soon... 🚀  
+
+---
+
+📫 **Contact me:** [marcel.durza@gmail.com](mailto:marcel.durza@gmail.com)
